@@ -35,7 +35,7 @@ There are three ways to get started with darkflow.
     ```
 ## Evaluate
 
-Here is a _Jupyter Notebook_ _evaluate.ipynb_ for easily test darkflow. Check it out!
+Here is a _Jupyter Notebook_ [_evaluate.ipynb_](https://github.com/jasag/object-detection-darkflow/blob/master/Evaluate.ipynb) for easily test darkflow. Check it out!
 
 ## Parsing the annotations
 
