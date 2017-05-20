@@ -36,6 +36,7 @@ There are three ways to get started with darkflow.
 ## Evaluate
 
 Here is a _Jupyter Notebook_ [_evaluate.ipynb_](https://github.com/jasag/object-detection-darkflow/blob/master/Evaluate.ipynb) for easily test darkflow. Check it out!
+To execute this notebook you have to download the weights in this [link](https://pjreddie.com/media/files/yolo.weights) and put it on _weigths_ folder inside this repository.
 
 ## Parsing the annotations
 
